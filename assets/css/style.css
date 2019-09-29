@@ -477,3 +477,8 @@ nav .menu img {
 	mix-blend-mode: color;
 	background-color: var(--secondary-100);
 }
+footer {
+	background-color: var(--secondary-400);
+	height: 558px;
+	color: white;
+}
